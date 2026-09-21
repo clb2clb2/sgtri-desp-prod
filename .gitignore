@@ -1,0 +1,19 @@
+# Entorno local
+.venv/
+
+# Material de documentación y utilidades fuera de runtime
+docs/
+tools/
+Normativas/
+
+# Archivos de ejemplo/pruebas en raíz
+datos_ejemplo.js
+Ejemplos PDFMake.pdf
+Liquidacion_Desplazamientos.docx
+Prueba salida PDF 0.docx
+Prueba salida PDF 1.docx
+Prueba salida PDF 2.docx
+
+# Basura del sistema/editor
+.DS_Store
+Thumbs.db
