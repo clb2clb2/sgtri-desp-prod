@@ -17,3 +17,17 @@ Prueba salida PDF 2.docx
 # Basura del sistema/editor
 .DS_Store
 Thumbs.db
+
+# Cache de Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Convencion VS Code (versionar solo archivos compartibles)
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+!.vscode/tasks.json
+!.vscode/launch.json
