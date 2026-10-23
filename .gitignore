@@ -31,3 +31,7 @@ __pycache__/
 !.vscode/extensions.json
 !.vscode/tasks.json
 !.vscode/launch.json
+
+# Temporales y bloqueos de Microsoft Word
+~$*
+~WRL*.tmp
